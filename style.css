@@ -1,0 +1,88 @@
+html{
+	border-left:5px solid #3598db;
+}
+
+body{
+	font-family: 'Glegoo', sans-serif;	font-size: 16px;
+	color: #222;
+	line-height: 180%;
+	
+}
+
+#container{
+	margin:0 auto;
+	max-width: 600px;
+	padding:0 20px 0 20px;
+}
+
+header{
+	background: #fff;
+}
+
+h1{
+	font-size: 48px;
+	padding: 50px 0 0px 0;
+	color: #3598db;
+	font-weight: 100;
+	line-height: 200%;
+} 
+
+.baseline{
+	font-size: 24px;
+	line-height: 150%;
+}
+
+h2{
+	font-size: 34px;
+	padding: 25px 0 0px 0;
+	color: #3598db;
+	font-weight: 100;
+	text-transform: uppercase;
+	line-height: 140%;
+}
+
+main p{
+	font-family: Glegoo;
+	margin: 25px 0;
+}
+
+a{
+	text-decoration: none;
+	display: block;
+	padding: 10px 0;
+	border: 1px solid #3598db;
+	color: #3598db; 
+	border-radius: 2px;
+	text-align: center;
+	margin:50px 0;
+}
+
+main{
+	display: block;
+}
+
+footer{
+	padding: 25px 0;
+	font-family: Source Sans Pro;
+	font-weight: 100;
+	margin-bottom: 100px;
+}
+
+.liens_utiles{
+	margin:25px 0;
+}
+
+
+.dernier{
+	margin-bottom: 50px;
+}
+
+.last_h2{
+	margin-top: 25px;
+}
+
+figcaption{
+	text-align: right;
+	font-size: 12px;
+	opacity: .5;
+}
